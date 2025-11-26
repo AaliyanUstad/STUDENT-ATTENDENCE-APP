@@ -52,4 +52,4 @@ A lightweight attendance-tracking app built with classic PHP and MySQL — simpl
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/attendance-tracker.git
+   git clone https://github.com/AaliyanUstad/STUDENT-ATTENDENCE-APP.git
