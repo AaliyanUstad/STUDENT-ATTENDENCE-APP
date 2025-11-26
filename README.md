@@ -6,17 +6,14 @@ A lightweight attendance-tracking app built with classic PHP and MySQL — simpl
 
 ## 📸 Screenshots
 
-> Upload your screenshots and share them — I’ll place them here cleanly.  
-> For now, placeholders are added below:
-
 ### 🔸 Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](./screenshots/dashboard.png)
 
 ### 🔸 Mark Attendance Page
-![Attendance Screenshot](screenshots/attendance.png)
+*(Add image when ready)*
 
 ### 🔸 Reports & Charts
-![Reports Screenshot](screenshots/reports.png)
+*(Add image when ready)*
 
 ---
 
